@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EnerjiSA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="randevu">Randevu</string>
+    <string name="menu_text">Size en yakın hizmet noktalarımızdan aşağıdaki işlemler için randevu alabilir , sıra beklemeden işlemlerinizi kolayca gerçekleştirebilirsiniz</string>
+    <string name="abonelik">Abonelik</string>
+    <string name="dilekce">Dilekçe ve Başvuru</string>
+    <string name="tahliye">Tahliye</string>
+    <string name="nakil">Nakil Taşıma</string>
+    <string name="yeni_abone">Yeni Abonelik</string>
+    <string name="mulkiyet">Mülkiyet Bilgileri</string>
+    <string name="abonelik_tipi">Abonelik Tipi</string>
+    <string name="mulk_sahibi">Mülk Sahibi Bilgileri</string>
+    <string name="ad">Adı</string>
+    <string name="tuzel_radio">Tüzel Kişi</string>
+    <string name="ozel_radio">Özel Kişi</string>
+    <string name="soyad">Soyadı</string>
+    <string name="TC">T.C. Kimlik Numarası</string>
+    <string name="ad_hint">Adı</string>
+    <string name="soyad_hint">Soyadı</string>
+    <string name="TC_hint">T.C. Kimlik Numarası</string>
+    <string name="Guvence">Güvence Bedeli</string>
+    <string name="guvence_bedel_text">Güvence bedeli tutarı, eşit iki taksit halinde ilk ve ikinci faturanıza yansıtılacaktır.</string>
+    <string name="guncel_bedel">Güncel Güvence Bedeli Tutarı</string>
+    <string name="fiyat">166,90TL</string>
+    <string name="guven_bedel_text">Görevli tedarik şirketi, kullanım yerinin değişmesi ve/veya perakende satış sözleşmesinin sona ermesi veya sözleşmenin feshi halinde, tüketicinin elektrik enerjisi tüketim bedelini ödememesi ihtimaline karşılık olarak, borcuna mahsup etmek üzere güvence bedeli talep eder. Aboneliğinizi sonlandırmak isteyip, tahliye işlemi yapmanız durumunda içeride bulunan güvence bedeliniz, elektriğinizin kesilmesinden sonra oluşacak son faturanız ve varsa vadesi geçmiş borçlarınızla mahsuplaşma güncellenerek tarafınıza iade edilecektir.</string>
+    <string name="kapat">kapat</string>
+    <string name="sonraki_asama">Sonraki Aşamaya Geç</string>
+    <string-array name="Abone_Tipi">
+        <item>Mesken (Konut)</item>
+        <item>Sanayi Abone Grubu</item>
+        <item>Tarımsal Sulama Abone Grubu</item>
+        <item>Ticarethane Abone Grubu</item>
+    </string-array>
+
+</resources>
